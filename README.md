@@ -52,7 +52,7 @@ Here's an example of how the age distribution bar chart might look:
 ![cd349288-7682-4ca5-8926-b8af64dddbdd](https://github.com/KathiravanGopi/PRODIGY_DS_01/assets/97278186/27d0415b-9250-4a6d-966f-9707097ea6fc)
 ![e2185a01-5e81-4772-9e5f-b83c0e986843](https://github.com/KathiravanGopi/PRODIGY_DS_01/assets/97278186/a0eb665a-26c0-4494-8528-335e286b0bf8)
 
-Age Distribution Bar Chart
+                                                    Population Distribution Bar Chart
 
 # Contributing
 If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
