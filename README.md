@@ -35,7 +35,7 @@ pip install pandas matplotlib
 
 3. Executing the Visualization
 - Run the script.
-- The code will load the data, process it, and create a bar chart representing the age distribution in the population dataset.
+- The code will load the data, process it, and create a bar chart representing the distribution in the population dataset.
 
 # Usage
 Use this project to:
